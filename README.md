@@ -13,5 +13,6 @@ Hand-drawn colored notes to help explain programming concepts.
 - we live to create for others
 - we are the same, but we differ only in the opposite sex
 - it all starts with a concept of thoughts, so trust the process
+- cat person
 
 EOF
