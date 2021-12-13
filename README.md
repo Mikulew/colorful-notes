@@ -15,4 +15,11 @@ Hand-drawn colored notes to help explain programming concepts.
 - it all starts with a concept of thoughts, so trust the process
 - cat person
 
+13 XII 2021
+
+- forgiveness
+- I'll let it go
+- letting the process happen
+- I let go of the importance of this situation
+
 EOF
